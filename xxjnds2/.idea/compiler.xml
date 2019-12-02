@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sm_service (1) (com.imooc)" />
+        <module name="sm_service (2) (com.mooc)" />
+        <module name="sm_web (1) (com.imooc)" />
+        <module name="sm_web (2) (com.mooc)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sm_service" target="1.5" />
+      <module name="sm_service (2) (com.mooc)" target="1.5" />
+      <module name="sm_web" target="1.7" />
+      <module name="sm_web (2) (com.mooc)" target="1.7" />
+      <module name="xxjnds2" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
