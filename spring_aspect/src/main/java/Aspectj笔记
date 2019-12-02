@@ -1,0 +1,11 @@
+@Aspectj 提供不同的通知类型
+
+# @Before 前置通知，相当于BeforAdvice
+
+# @AfterReturning 后置通知，相当于AfterReturningAdvice
+
+# @Around 环绕通知，相当于MethodInterceptor
+
+# @AfterThrowing异常抛出通知，相当于ThrrowAdvice
+
+# @After 最终final通知，不管是否异常，该通知都会执行
